@@ -12,3 +12,5 @@ Lanterna desenvolvida utilizando ReactNative.
 - Hook useState
 - Hook useEffect
 - Add Listener to RNShake
+- Sobre o projeto
+Flashlight é um aplicativo de lanterna desenvolvido através do bootcamp Decola Tech 3a Edição da DIO com Avanade , utilizando o framework React Native.
